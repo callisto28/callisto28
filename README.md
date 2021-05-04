@@ -4,7 +4,7 @@
 
 
 
-Skills:  JS / HTML / CSS / React / Vue
+Skills:  JS / HTML / CSS / React / Vue / NodeJS / ExpressJs
 
 - 🔭 I’m currently working on this Application for a fishing associationge. 
 - 🌱 I’m currently learning VueJs, ReactJs 
