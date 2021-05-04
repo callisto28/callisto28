@@ -19,7 +19,7 @@ Skills:  JS / HTML / CSS / React / Vue / NodeJS / ExpressJs
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=callisto28&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=callisto28)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/callisto28)  
 
