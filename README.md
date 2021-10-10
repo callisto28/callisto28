@@ -6,8 +6,8 @@
 
 Skills:  JS / HTML / CSS / React / Vue / NodeJS / ExpressJs
 
-- 🔭 I’m currently working on this Application for a fishing associationge. 
-- 🌱 I’m currently learning VueJs, ReactJs 
+- 🔭 I’m currently working on this Application on crytpo and NFT with NextJs. 
+- 🌱 I’m currently learning NextJS, ReactJs 
 - 📫 How to reach me: sebastien.fourny28@gmail.com 
 - Portfolio = http://seb4dev.works/
 
