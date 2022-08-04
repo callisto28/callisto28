@@ -9,7 +9,7 @@ Skills:  JS / HTML / CSS / React / Vue / NodeJS / ExpressJs
 - 🔭 I’m currently working on this Application on crytpo and NFT with NextJs. 
 - 🌱 I’m currently learning NextJS, ReactJs 
 - 📫 How to reach me: sebastien.fourny28@gmail.com 
-- Portfolio = http://seb4dev.works/
+- Portfolio = https://www.sebfordev.me/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/callisto28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastien-fourny/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sebastienfourny/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iotaseb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://seb4dev-folio.netlify.app/)  
